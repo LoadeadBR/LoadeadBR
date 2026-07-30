@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=LoadeadBR&descSize=40&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=40&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Marcos living in BrazilCrazyCode</p>
+<p data-importer="text" align="left">I'm Marcos Menezes, a Software Engineer focused on building SaaS products, AI automations and scalable web applications.<br><br>Currently building:<br><br>🚗 Mira<br>🤖 AI Automations<br>⚡ Modern SaaS Platforms</p>
 
 ###
 
