@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=LoadeadBR&descSize=40&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
@@ -65,14 +65,14 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=LoadeadBR.LoadeadBR&"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMHdtOGZ0bWRja2JrMzBhdWU3cDFva281bTY2OXVmb3NjN2loYmEzdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif"  />
 </div>
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMHdtOGZ0bWRja2JrMzBhdWU3cDFva281bTY2OXVmb3NjN2loYmEzdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif"  />
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=LoadeadBR.LoadeadBR&"  />
 </div>
 
 ###
