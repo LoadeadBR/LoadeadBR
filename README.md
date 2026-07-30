@@ -1,1 +1,1 @@
-![Jogo da Cobrinha](https://githubusercontent.com)
+<img src="https://githubusercontent.com" alt="Jogo da Cobrinha" />
